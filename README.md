@@ -1,3 +1,6 @@
+framework : hono ,drizzle , typescript , bun
+
+
 To install dependencies:
 ```sh
 bun install
