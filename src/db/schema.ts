@@ -29,3 +29,4 @@ export type Member = typeof Members.$inferSelect;
 export type NewMember = typeof Members.$inferInsert;  
 export type RoleChangeRequest = typeof RoleChangeRequests.$inferSelect;
 export type NewRoleChangeRequest = typeof RoleChangeRequests.$inferInsert;
+export type NewDecisions = typeof Decisions.$inferInsert;
